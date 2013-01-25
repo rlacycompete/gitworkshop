@@ -2,3 +2,6 @@
 
 def helper_one():
     return "Success!"
+
+def helper_two():
+    return 42
