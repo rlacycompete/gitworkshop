@@ -1,14 +1,14 @@
 # roses
-roses = None
+roses = 'flowers'
 
 # violets
-violets = None
+violets = 'blue'
 
 # this
-this_exercise = None
+this_exercise = 'fun'
 
 # and
-and_so_are = None
+and_so_are = 'differential equations'
 
 if(
     roses == 'red' and
