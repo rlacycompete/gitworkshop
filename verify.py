@@ -1,14 +1,14 @@
 # roses
-roses = None
+roses = 'red'
 
 # violets
-violets = None
+violets = 'purple'
 
 # this
-this_exercise = None
+this_exercise = 'yellow'
 
 # and
-and_so_are = None
+and_so_are = 'you'
 
 if(
     roses == 'red' and
